@@ -5,9 +5,9 @@ The purpose of this project is to update the Horiseon web page with semantic htm
 This will improve user accessibility, readability in programming, and search engine optimization (SEO).
 
 ## User Story
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
+AS A marketing agency  
+I WANT a codebase that follows accessibility standards  
+SO THAT our own site is optimized for search engines  
 
 ## Acceptance Criteria
 GIVEN a webpage meets accessibility standards  
