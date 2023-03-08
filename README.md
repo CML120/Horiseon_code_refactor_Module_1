@@ -2,7 +2,7 @@
 
 Module 1: refactor html for accessibility  
 The purpose of this project is to update the Horiseon web page with semantic html.  
-This will improve user experience for users with accessibility, readability in programming, and search engine optimization (SEO).
+This will improve user accessibility, readability in programming, and search engine optimization (SEO).
 
 ## User Story
 AS A marketing agency
