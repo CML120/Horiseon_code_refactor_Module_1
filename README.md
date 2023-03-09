@@ -21,3 +21,8 @@ WHEN I view the heading attributes
 THEN they fall in sequential order  
 WHEN I view the title element  
 THEN I find a concise, descriptive title  
+
+
+![image](https://user-images.githubusercontent.com/126404917/224163686-ec800324-8972-4133-8f2c-a8a508505424.png)
+
+Page deployed: https://cml120.github.io/Horiseon_code_refactor_Module_1/
